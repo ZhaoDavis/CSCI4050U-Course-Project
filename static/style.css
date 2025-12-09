@@ -1,0 +1,15 @@
+#input_div {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30vh;
+}
+
+.h1 {
+    justify-content: center;
+    font-family: "Arial", sans-serif;
+}
+
+.h2 {
+    justify-content: center;
+    font-family: "Arial", sans-serif;
+}
